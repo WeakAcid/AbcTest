@@ -58,6 +58,7 @@ const int64_t kDefaultAcceptedQueueMs = 250;
 int client = -1;
 int portnum = 9999;
 //test
+//this is used to learn github
 int bufsize = 1024;
 //int begin_flag = 0;
 //int send_succ = 0;
